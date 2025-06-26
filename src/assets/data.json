@@ -1,0 +1,358 @@
+[
+    {
+      "id": "kebab",
+      "id_ref": 68,
+      "name": "kebab",
+      "foods": [
+        {
+          "title": "Special tray for two",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 600000
+        },
+        {
+          "title": "Boneless Saffron Chicken",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 160000
+        },
+        {
+          "title": "Saffron Chicken with Bones",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 190000
+        },
+        {
+          "title": "Sour Chicken",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 240000
+        },
+        {
+          "title": "Mixed kebab",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 240000
+        },
+        {
+          "title": "Grilled sour kebab",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 335000
+        },
+        {
+          "title": "Veal steak with chicken",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 275000
+        },
+        {
+          "title": "Lamb steak with chicken",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 380000
+        },
+        {
+          "title": "Shishlik",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 455000
+        },
+        {
+          "title": "Viziri kebab",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 345000
+        },
+        {
+          "title": "Negini kebab",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 270000
+        },
+        {
+          "title": "Rainbow trout",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 270000
+        },
+        {
+          "title": "White fish",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 385000
+        },
+        {
+          "title": "Zereshk polo with chicken",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 155000
+        },
+        {
+          "title": "Khoresh-e Fesenjoon",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 210000
+        },
+        {
+          "title": "Ghormeh sabzi",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 140000
+        },
+        {
+          "title": "Mirza Ghasemi",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 105000
+        },
+        {
+          "title": "Baghala ghatogh",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 105000
+        },
+        {
+          "title": "Grilled chicken leg",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 72000
+        }
+      ]
+    },
+    {
+      "id": "fastfood",
+      "id_ref": 50,
+      "name": "fastfood",
+      "foods": [
+        {
+          "title": "Sirloin steak",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 230000
+        },
+        {
+          "title": "Beef and mushroom",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 250000
+        },
+        {
+          "title": "Chicken and mushroom",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 210000
+        },
+        {
+          "title": "Special mixed dish",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 205000
+        },
+        {
+          "title": "Pepperoni pizza",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 200000
+        },
+        {
+          "title": "Margherita pizza",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 170000
+        },
+        {
+          "title": "chicken schnitzel",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 210000
+        }
+      ]
+    },
+    {
+      "id": "sandwiches",
+      "id_ref": 52,
+      "name": "sandwiches",
+      "foods": [
+        {
+          "title": "Special burger",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 165000
+        },
+        {
+          "title": "Chicken burger",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 170000
+        },
+        {
+          "title": "Mixed burger",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 210000
+        },
+        {
+          "title": "Hot dog special",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 170000
+        },
+        {
+          "title": "Baked ham",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 220000
+        }
+      ]
+    },
+    {
+      "id": "appetizer",
+      "id_ref": 51,
+      "name": "appetizer",
+      "foods": [
+        {
+          "title": "Potatoes",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 95000
+        },
+        {
+          "title": "Special potatoes",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 135000
+        },
+        {
+          "title": "Potatoes with dip cheese",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 165000
+        },
+        {
+          "title": "Seasonal salad",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 90000
+        },
+        {
+          "title": "shiraz salad",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 45000
+        },
+        {
+          "title": "Caesar salad",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 160000
+        },
+        {
+          "title": "Strained yogurt",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 45000
+        },
+        {
+          "title": "Pickled olives",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 65000
+        },
+        {
+          "title": "Kale Kabab",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 65000
+        },
+        {
+          "title": "Pickled garlic",
+          "img": "https://rasticomplex.com/logo.png",
+          "disconted": false,
+          "discountTag": "",
+          "offPrice": 0,
+          "price": 50000
+        }
+      ]
+    }
+  ]

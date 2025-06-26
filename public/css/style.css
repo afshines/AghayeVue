@@ -1,0 +1,355 @@
+
+
+a{
+    text-decoration: none;
+}
+.header_section {
+    background:#1c5c38;
+    
+    padding: 1rem 0;
+}
+.brand-logo{
+    width: 60px;
+}
+h1{
+    font-size: 1.2rem;
+padding-left: 1rem;
+margin: 0;
+color: #d6d8b2;;
+}
+.venus_list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.venus_list li {
+    margin: .5rem 1rem .5rem 0;
+}
+.venus_list li a{
+    border: 1px solid #fff;
+    display: inline-block;
+    padding: 0.5rem 2rem;
+    min-width: 200px;
+    text-align: center;
+    border-radius: 4.05rem;
+    font-size: 1.3rem;
+    line-height: 23px;
+    background: #fff;
+    color: #0a311b;
+    padding-top: 17px;font-weight: bold;
+}
+body {
+    background: #ddcab8;
+}
+.rtlFonts {
+  
+    direction: rtl;
+    text-align: right;
+    font-size: .9rem;
+    padding: 0 .7em;
+    min-height: 65px;
+}
+.item_box {
+    overflow: hidden;
+    border-radius: 2.2rem;
+    margin: .5rem 0;
+    background: rgb(0 196 64 / 17%);
+    position: relative;
+}
+.item_box ul {
+    padding: 1rem .7rem .7rem .7rem !important;
+    color: #966b59;
+}
+.item_price {
+    font-size: 1.2rem;
+    font-weight: 900;
+    color: #333;
+}
+
+.menu_title {
+    text-align: center;
+    margin: 2rem 0 3rem;
+    color: #555;
+    font-weight: 800;
+    font-size: 1.9rem;
+}
+
+.item_box li h3 {
+    font-size: 1.4rem;
+    min-height: 55px;
+    padding-right: 2rem;
+}
+
+
+
+@media only screen and (max-width: 576px) {
+    .venus_list {
+        justify-content: space-between;
+        margin: 1rem 0 0 0;
+    }	
+    .venus_list li {
+        margin: .5rem 0;
+        width: 100%;
+    }
+    .venus_list li a {
+        display: block;font-weight: bold;
+    }
+}
+@media only screen and (max-width: 576px) {
+    .sides{
+    display:flex;
+    flex-direction: column;
+    row-gap:20px
+
+}
+}
+.sides{
+    display:flex;
+    justify-content: space-around;
+
+}
+.side {
+        background: #eeeeee;
+    padding: 10px;
+    border-radius: 5px;
+        min-width: 200px;
+    text-align: center;
+}
+p span {
+    color:#13ce13;
+}
+.custom {
+        color: #000;
+   
+    font-size: 12px;
+}
+/* common */
+.ribbon {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  position: absolute;
+}
+.ribbon::before,
+.ribbon::after {
+  position: absolute;
+  z-index: -1;
+  content: '';
+  display: block;
+  border: 3px solid #E94736;
+}
+.ribbon span {
+  position: absolute;
+  display: block;
+  width: 165px;
+  padding: 5px 0;
+  background-color: #E94736;
+  box-shadow: 0 5px 10px rgba(0,0,0,.1);
+}
+
+/* top left*/
+.ribbon-top-left {
+  top: -3px;
+  left: -3px;
+}
+.ribbon-top-left::before,
+.ribbon-top-left::after {
+  border-top-color: transparent;
+  border-left-color: transparent;
+}
+.ribbon-top-left::before {
+  top: 0;
+  right: 0;
+}
+.ribbon-top-left::after {
+  bottom: 0;
+  left: 0;
+}
+.ribbon-top-left span {
+  right: -22px;
+  top: 30px;
+  transform: rotate(-45deg);
+}
+
+/* top right*/
+.ribbon-top-right {
+  top: -3px;
+  right: -3px;
+}
+.ribbon-top-right::before,
+.ribbon-top-right::after {
+  border-top-color: transparent;
+  border-right-color: transparent;
+}
+.ribbon-top-right::before {
+  top: 0;
+  left: 0;
+}
+.ribbon-top-right::after {
+  bottom: 0;
+  right: 0;
+}
+.ribbon-top-right span {
+  left: -22px;
+  top: 30px;
+  transform: rotate(45deg);
+}
+
+.wdp-ribbon{
+	display: inline-block;
+    padding: 2px 15px;
+	position: absolute;
+    right: 0px;
+    top: 20px;
+    line-height: 24px;
+	height:24px;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+	border-radius: 0;
+    text-shadow: none;
+    font-weight: normal;
+    background-color: #92754d !important;
+	color: #fff !important;
+	
+}
+
+.wdp-ribbon-two:before, .wdp-ribbon-two:before {
+    display: inline-block;
+    content: "";
+    position: absolute;
+    left: -14px;
+    top: 0;
+    border: 9px solid transparent;
+    border-width: 12px 8px;
+    border-right-color: #92754d;
+}
+.wdp-ribbon-two:before {
+    border-color: #92754d;
+    border-left-color: transparent!important;
+    left: -9px;
+}
+.wdp-ribbon-four{
+	right: 10px;
+    top: 10px;
+    line-height: 60px;
+    height: 60px;
+}
+.wdp-ribbon-five{
+	background: #E94736;
+	right: 10px;
+    top: 10px;
+	padding: 0px;
+	height: 60px;
+	width: 60px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 60px;
+	border-radius:50%;
+}
+.wdp-ribbon-six{
+	background: none !important;
+    position: relative;
+    box-sizing: border-box;
+    position: absolute;
+    width: 65px;
+    height: 65px;
+	top:0px;
+	right:0px;
+	padding:0px;
+	overflow: hidden;
+}
+.wdp-ribbon-inner-wrap{
+    -ms-transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+    -webkit-transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+    transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+}
+.wdp-ribbon-border{
+    width: 0;
+    height: 0;
+    border-right: 65px solid #E94736;
+    border-bottom: 65px solid transparent;
+    z-index: 12;
+	position:relative;
+	top:-20px;
+}
+.wdp-ribbon-text {
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 13px;
+    position: absolute;
+    z-index: 14;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    top: 15px;
+    left: -5px;
+    width: 91px;
+    text-align: center;
+}
+@media only screen and (max-width: 576px) {
+    .sides{
+    display:flex;
+    flex-direction: column;
+    row-gap:20px
+
+}
+}
+.sides{
+    display:flex;
+    justify-content: space-around;
+
+}
+.side {
+        background: #eeeeee;
+    padding: 10px;
+    border-radius: 5px;
+        min-width: 200px;
+    text-align: center;
+}
+p span {
+    color:#13ce13;
+    display:block;
+   
+}
+.red {
+    color: red !important;
+    
+}
+.custom {
+    color: #000;
+    
+    font-size: 12px;
+}
+.special-box {
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px !important;
+    background: transparent !important;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+.special-item {
+    color: #fff !important;
+}
+
+.item_box img {
+    max-width: 100%;
+}
+.item_box, .item_box h3 ,.item_price span{
+    direction: rtl !important;
+    text-align: right !important;
+
+}
+.item_box ul{
+    flex-direction: inherit;
+
+}
+
+.rtlFonts {
+    font-family: 'IRANSansMobile(FaNum)' !important;
+    font-size: 1.2rem  !important;
+ 
+
+}
